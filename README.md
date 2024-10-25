@@ -5,8 +5,8 @@
 I'm a passionate trainee web developer. 
 I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: Frontend web development
-- 🔭 Working on: Group prjekt 'Join' - Kanban Board (agile project management tool)
+- 🌱 Currently learning: Frontend web development (OOP)
+- 🔭 Working on: Sharki - littel and simple 2d game
 - 🌍 Languages: **programming languages: JavaScript  **human languages: german, englisch
 
 ## My Skills 🧠
