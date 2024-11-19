@@ -1,5 +1,7 @@
 # Hi there, I'm Alex 👋
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderAlbrecht1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## About Me 🚀
 
 I'm a passionate trainee web developer. 
