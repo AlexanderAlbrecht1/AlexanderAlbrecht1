@@ -14,9 +14,14 @@ I love tackling complex problems, learning new skills, and collaborating with di
 ## My Skills 🧠
 
 ![Angular](https://github.com/AlexanderAlbrecht1/Portfolio/blob/main/src/assets/img/icons_skillset/angular.svg)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://github.com/AlexanderAlbrecht1/Portfolio/blob/main/src/assets/img/icons_skillset/typescript.svg)
+![Material Design](https://github.com/AlexanderAlbrecht1/Portfolio/blob/main/src/assets/img/icons_skillset/material-design.svg)
+![HTML](https://github.com/AlexanderAlbrecht1/Portfolio/blob/main/src/assets/img/icons_skillset/html.svg)
+![CSS](https://github.com/AlexanderAlbrecht1/Portfolio/blob/main/src/assets/img/icons_skillset/css.svg)
+![JavaScript](https://github.com/AlexanderAlbrecht1/Portfolio/blob/main/src/assets/img/icons_skillset/javascript.svg)
+![Firebase](https://github.com/AlexanderAlbrecht1/Portfolio/blob/main/src/assets/img/icons_skillset/firebase.svg)
+![Git](https://github.com/AlexanderAlbrecht1/Portfolio/blob/main/src/assets/img/icons_skillset/git.svg)
+![Rest-Api](https://github.com/AlexanderAlbrecht1/Portfolio/blob/main/src/assets/img/icons_skillset/rest_api.svg)
 
 ## Get in Touch 📬
 
