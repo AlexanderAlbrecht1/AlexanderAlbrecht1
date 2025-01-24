@@ -23,6 +23,10 @@ I love tackling complex problems, learning new skills, and collaborating with di
 ![Git](https://github.com/AlexanderAlbrecht1/Portfolio/blob/main/src/assets/img/icons_skillset/git.svg)
 ![Rest-Api](https://github.com/AlexanderAlbrecht1/Portfolio/blob/main/src/assets/img/icons_skillset/rest_api.svg)
 
+## 📊 My WakaTime Stats
+![WakaTime](https://wakatime.com/@65c5bf40-a2e3-46ca-978a-87ade5f35500)
+
+
 ## Get in Touch 📬
 
 - **[LinkedIn]**(www.linkedin.com/in/alexander-a-58428a2a8)
