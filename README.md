@@ -8,7 +8,7 @@ I'm a passionate trainee web developer.
 I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: Frontend web development 
-- 🔭 Working on: Simple CRM - Angular based Web App
+- 🔭 Working on: DA Bubble  - Slack/Discord Clone
 - 🌍 Languages: **programming languages: JavaScript  **human languages: german, englisch
 
 ## My Skills 🧠
