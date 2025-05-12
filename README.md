@@ -9,7 +9,7 @@ I love tackling complex problems, learning new skills, and collaborating with di
 
 - 🌱 Currently learning: Frontend web development 
 - 🔭 Working on: DA Bubble  - Slack/Discord Clone
-- 🌍 Languages: **programming languages: JavaScript  **human languages: german, englisch
+- 🌍 Languages: german, englisch
 
 ## My Skills 🧠
 
