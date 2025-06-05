@@ -26,7 +26,7 @@ I love tackling complex problems, learning new skills, and collaborating with di
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**(www.linkedin.com/in/alexander-a-58428a2a8)
+- **[LinkedIn]**(https://www.linkedin.com/in/alexanderalbrecht1/)
 
 
 
