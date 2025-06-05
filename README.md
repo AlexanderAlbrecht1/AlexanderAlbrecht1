@@ -7,8 +7,8 @@
 I'm a passionate trainee web developer. 
 I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: Frontend web development 
-- 🔭 Working on: DA Bubble  - Slack/Discord Clone
+- 🌱 Currently learning: Python -> Django 
+
 - 🌍 Languages: german, englisch
 
 ## My Skills 🧠
